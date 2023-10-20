@@ -1,17 +1,16 @@
 [![Banner](banner/mpalashb_github_profile_banner.png)](https://www.linkedin.com/in/fl-palash/)
 
-#👋 Hello,
-I'm Mohammad Palash, a skilled Python developer specializing in web application development, web scraping, and data solutions
+👋 Hi, I'm Mohammad Palash, a Senior Python Developer with expertise in Web Scraping, Automation, Data Extraction, and FastAPI. I specialize in creating efficient and scalable web scraping solutions, utilizing technologies like Scrapy, Docker, AWS, and FastAPI.
 
-🚀 Expertise:
+🚀 What I do:
 
-- Full Stack Django Development
-- Backend REST API Development
-- Scrapy Framework for Web Scraping
-- Data Extraction, Cleaning, and Transformation
-- Scripting and Automation
+Expert in Python Web Scraping & Scraping Automation
+AWS Lambda Functions for Scalable Web Crawling & Data Processing
+FastAPI for Building High-Performance API Endpoints
+Proficiency in PostgreSQL, MySQL, and MongoDB
+Deployment on Heroku, DigitalOcean, AWS, and More
 
-With a deep passion for unlocking the potential of Python, I thoroughly enjoy creating robust and challenging projects.
+💡 Let's collaborate on your data-driven projects and build remarkable solutions together! Feel free to reach out for discussions and project exploration. With a deep passion for unlocking the potential of Python, I thoroughly enjoy creating robust and challenging projects.
 
-- 🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills
-- 📫 Feel free to Reach me at mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
+🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills
+📫 Feel free to Reach me at mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
