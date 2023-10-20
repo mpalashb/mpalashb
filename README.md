@@ -4,11 +4,11 @@
 
 🚀 What I do:
 
-Expert in Python Web Scraping & Scraping Automation
-AWS Lambda Functions for Scalable Web Crawling & Data Processing
-FastAPI for Building High-Performance API Endpoints
-Proficiency in PostgreSQL, MySQL, and MongoDB
-Deployment on Heroku, DigitalOcean, AWS, and More
+Expert in Python Web Scraping & Scraping Automation <br>
+AWS Lambda Functions for Scalable Web Crawling & Data Processing <br>
+FastAPI for Building High-Performance API Endpoints <br>
+Proficiency in PostgreSQL, MySQL, and MongoDB <br>
+Deployment on Heroku, DigitalOcean, AWS, and More <br>
 
 💡 Let's collaborate on your data-driven projects and build remarkable solutions together! Feel free to reach out for discussions and project exploration. With a deep passion for unlocking the potential of Python, I thoroughly enjoy creating robust and challenging projects.
 
