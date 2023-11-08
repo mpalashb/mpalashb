@@ -13,4 +13,4 @@ Deployment on Heroku, DigitalOcean, AWS, and More <br>
 💡 Let's collaborate on your data-driven projects and build remarkable solutions together! Feel free to reach out for discussions and project exploration. With a deep passion for unlocking the potential of Python, I thoroughly enjoy creating robust and challenging projects.
 
 🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills
-📫 Feel free to Reach me at mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
+📫 Feel free to Reach me at palash@mopalash.com or mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
