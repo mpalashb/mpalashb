@@ -20,4 +20,4 @@
 
 
 🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills!
-📫 Feel free to Reach me at palash@mopalash.com or mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
+📫 Feel free to Reach me at Skype live:palashbabu2 or email mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
