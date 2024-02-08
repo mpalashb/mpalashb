@@ -1,16 +1,16 @@
 [![Banner](banner/mpalashb_github_profile_banner.png)](https://www.linkedin.com/in/fl-palash/)
 
-👋 Hi, I'm Mohammad Palash, a Senior Python Developer with expertise in Web Scraping, Automation, Data Extraction, and FastAPI. I specialize in creating efficient and scalable web scraping solutions, utilizing technologies like Scrapy, Docker, AWS, and FastAPI.
+👋 Hi there! I'm Mohammad Palash, a Python Developer specializing in Python Django/DRF development and web scraping expertise. With a knack for crafting efficient and scalable solutions, I thrive on challenges and am passionate about leveraging the latest technologies to deliver outstanding results.
 
-🚀 What I do:
+🚀 What I bring to the table:
 
-Expert in Python Web Scraping & Scraping Automation <br>
-AWS Lambda Functions for Scalable Web Crawling & Data Processing <br>
-FastAPI for Building High-Performance API Endpoints <br>
-Proficiency in PostgreSQL, MySQL, and MongoDB <br>
-Deployment on Heroku, DigitalOcean, AWS, and More <br>
+✔️ Proficiency in Python, Django, Django REST Framework, Scrapy, Selenium, Playwright, Docker, and AWS.
+✔️ Extensive experience in web scraping, automation, and data extraction, ensuring accurate and reliable results.
+✔️ Expertise in API development with Django Rest Framework, building high-performance endpoints for seamless integration.
+✔️ Advanced knowledge of database management systems like PostgreSQL, MySQL, and MongoDB, ensuring data integrity and efficiency.
+✔️ Deployment expertise on cloud platforms including Heroku, DigitalOcean, and AWS, utilizing AWS Lambda & EC2 for scalable solutions.
 
-💡 Let's collaborate on your data-driven projects and build remarkable solutions together! Feel free to reach out for discussions and project exploration. With a deep passion for unlocking the potential of Python, I thoroughly enjoy creating robust and challenging projects.
+💡 Let's collaborate on your data-driven projects and create remarkable solutions together! Whether you need Django development, web scraping solutions, or API endpoints, I'm here to turn your vision into reality. Feel free to reach out for discussions and project exploration. I'm committed to delivering top-notch quality and exceeding your expectations every step of the way.
 
-🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills
+🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills!
 📫 Feel free to Reach me at palash@mopalash.com or mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
