@@ -1,6 +1,6 @@
-[![Banner](banner/github_v2.png)](https://www.linkedin.com/in/fl-palash/)
+[![Banner](banner/github_v3.png)](https://www.linkedin.com/in/fl-palash/)
 
-👋 Hi there! I'm Mohammad Palash, a Python & Node.js Developer specializing in Django/DRF development and web scraping expertise. With a knack for crafting efficient and scalable solutions, I thrive on challenges and am passionate about leveraging the latest technologies to deliver outstanding results.
+👋 Hi there! I'm Mohammad Palash, a Python Developer specializing in Django/DRF development and web scraping expertise. With a knack for crafting efficient and scalable solutions, I thrive on challenges and am passionate about leveraging the latest technologies to deliver outstanding results.
 
 
 🚀 What I bring to the table:
