@@ -1,4 +1,4 @@
-[![Banner](banner/github_v4.png)](https://www.linkedin.com/in/fl-palash/)
+[![Banner](banner/github-v5.png)](https://www.linkedin.com/in/fl-palash/)
 
 👋 Hi there! I'm Mohammad Palash, a Python Developer specializing in full-stack Django/DRF and React development, alongside web scraping, automation, and data extraction. With a dedication to crafting efficient and scalable solutions, I thrive on challenges and am committed to delivering top-notch quality results.
 
