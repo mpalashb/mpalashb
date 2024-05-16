@@ -16,8 +16,8 @@
 ✔️ Deployment expertise on cloud platforms including Heroku, DigitalOcean, and AWS for scalable solutions.
 
 
+
 💡 Let's collaborate on your data-driven projects and create remarkable solutions together! Whether you need Django development, web scraping solutions, or API endpoints, I'm here to turn your vision into reality. Feel free to reach out for discussions and project exploration. I'm committed to delivering top-notch quality and exceeding your expectations every step of the way.
 
 
 🌱 I’m currently working as a freelancer on Upwork and continuously expanding my skills!
-📫 Feel free to Reach me at Skype live:palashbabu2 or email mpalash.biz@gmail.com to discuss collaboration and explore potential projects.
