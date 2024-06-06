@@ -1,4 +1,4 @@
-[![Banner](banner/github-v5.png)](https://www.linkedin.com/in/fl-palash/)
+[![Banner](banner/github-v6.png)](https://www.linkedin.com/in/fl-palash/)
 
 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 | 
 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝘀 𝘃𝗮𝗹𝘂𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮 𝗳𝗿𝗼𝗺 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 and automates workflows using Python (Scrapy, Selenium). Expertise in Django/React for full-stack development.
