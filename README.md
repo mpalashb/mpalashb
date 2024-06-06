@@ -1,23 +1,10 @@
 [![Banner](banner/github-v5.png)](https://www.linkedin.com/in/fl-palash/)
 
-👋 Hi there! I'm Mohammad Palash, a Python Developer specializing in full-stack Django/DRF and React development, alongside web scraping, automation, and data extraction. With a dedication to crafting efficient and scalable solutions, I thrive on challenges and am committed to delivering top-notch quality results.
+𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝘀 𝘃𝗮𝗹𝘂𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮 𝗳𝗿𝗼𝗺 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 and automates workflows using Python (Scrapy, Selenium). Expertise in Django/React for full-stack development.
 
-🚀 **What I bring to the table:**
+𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: Django/DRF, React, Node.js, Docker, AWS, Databases (PostgreSQL, MySQL, MongoDB).
 
-- ✔️ Proficiency in Python, Node.js, Django, Django REST Framework, React, Scrapy, Selenium, Puppeteer, Playwright, Docker, and AWS.
-  
-- ✔️ Extensive experience in developing full-stack Django/React web applications, ensuring scalability, efficiency, and dynamic user experiences.
-  
-- ✔️ Expertise in API development with Django Rest Framework, building high-performance endpoints for seamless integration.
-  
-- ✔️ Skilled in React for building dynamic user interfaces and seamless client-side experiences.
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁 & 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲: Open to discussions on full-stack & data-driven projects.
 
-- ✔️ Deployment expertise on cloud platforms including Heroku, DigitalOcean, and AWS for scalable solutions.
-
-- ✔️ Extensive experience in web scraping, automation, and data extraction, ensuring accurate and reliable results.
-
-- ✔️ Advanced knowledge of database management systems like PostgreSQL, MySQL, and MongoDB, ensuring data integrity and efficiency.
-
-💡 **Let's collaborate on your full-stack Django/React and data-driven projects!** Whether you need a Django/React app, web scraping solutions, or API endpoints, I'm here to turn your vision into reality. Feel free to reach out for discussions and project exploration. I'm committed to exceeding your expectations every step of the way.
-
-🌱 **I’m currently working as a freelancer on Upwork and continuously expanding my skills!**
+𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿 (Upwork) | Continuous learner
