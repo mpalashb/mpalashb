@@ -1,4 +1,4 @@
-[![Banner](banner/github-v6.png)](https://www.linkedin.com/in/fl-palash/)
+[![Banner](github-v7.png)](https://www.linkedin.com/in/fl-palash/)
 
 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, & 𝗣𝘆𝘁𝗵𝗼𝗻 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
 
