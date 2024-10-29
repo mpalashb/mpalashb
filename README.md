@@ -7,9 +7,13 @@ Experienced in full-stack development with Django, React, and Next.js, I deliver
 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀:
 
 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗔𝗣𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Django/DRF, FastAPI for building secure, robust APIs.
+
 • 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expertise in React and Next.js for modern.
+
 • 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Skilled in PostgreSQL, MySQL, and MongoDB.
+
 • 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Proficient in Docker, AWS, and cloud services for scalable deployments.
+
 • 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 & 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴: Experienced in Scrapy and Selenium to streamline workflows.
 
 𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀:
