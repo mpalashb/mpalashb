@@ -1,4 +1,4 @@
-[![Banner](github-v7.png)](https://www.linkedin.com/in/fl-palash/)
+[![Banner](github-v8-1-25.png)](https://www.linkedin.com/in/fl-palash/)
 
 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗰𝗿𝗮𝗽𝘆, 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺, 𝗖𝗹𝗼𝘂𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
 I specialize in data extraction, large-scale web scraping, and automation, helping businesses streamline workflows with custom scraping solutions. Whether it's structured data for market research, AI/ML training, or lead generation, I build efficient, undetectable, and scalable scrapers.
