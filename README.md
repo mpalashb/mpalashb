@@ -1,23 +1,20 @@
 [![Banner](github-v7.png)](https://www.linkedin.com/in/fl-palash/)
 
-𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, & 𝗣𝘆𝘁𝗵𝗼𝗻 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗰𝗿𝗮𝗽𝘆, 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺, 𝗖𝗹𝗼𝘂𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
+I specialize in data extraction, large-scale web scraping, and automation, helping businesses streamline workflows with custom scraping solutions. Whether it's structured data for market research, AI/ML training, or lead generation, I build efficient, undetectable, and scalable scrapers.
 
-Experienced in full-stack development with Django, React, and Next.js, I deliver efficient and scalable solutions tailored to diverse business needs. Currently active on Upwork as a dedicated freelancer, I bring specialized skills in Python, backend APIs, and automation, along with hands-on experience deploying applications using Docker and cloud platforms like AWS.
+🔹 Core Expertise:
+𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴: Scrapy, Selenium, Playwright, Puppeteer
+𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: APIs, PostgreSQL, MySQL, MongoDB
+𝗔𝗻𝘁𝗶-𝗕𝗹𝗼𝗰𝗸𝗶𝗻𝗴 & 𝗖𝗮𝗽𝘁𝗰𝗵𝗮 𝗕𝘆𝗽𝗮𝘀𝘀: Rotating proxies, session handling, TLS fingerprinting
+𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: AWS Lambda, Google Cloud Run, Docker
+𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 & 𝗘𝘁𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀: Celery, Cron Jobs, S3
 
-𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀:
+🔹 Why Work With Me?
+✅ Undetectable & High-Success Scraping for dynamic sites
+✅ Optimized, Scalable & Cloud-Ready Solutions
+✅ Secure & Ethical Data Collection
+✅ Custom APIs & Automated Pipelines
 
-• 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗔𝗣𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Django/DRF, FastAPI for building secure, robust APIs.
-
-• 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expertise in React and Next.js for modern.
-
-• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Skilled in PostgreSQL, MySQL, and MongoDB.
-
-• 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Proficient in Docker, AWS, and cloud services for scalable deployments.
-
-• 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 & 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴: Experienced in Scrapy and Selenium to streamline workflows.
-
-𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀:
-
-A dedicated, continuous learner, always refining and expanding technical skills to meet project requirements. Committed to collaborative work, open to discussions on innovative full-stack or data-driven projects.
-
-𝙇𝙚𝙩’𝙨 𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙖𝙣𝙙 𝙚𝙭𝙥𝙡𝙤𝙧𝙚 𝙝𝙤𝙬 𝙄 𝙘𝙖𝙣 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙮𝙤𝙪𝙧 𝙥𝙧𝙤𝙟𝙚𝙘𝙩'𝙨 𝙜𝙧𝙤𝙬𝙩𝙝!
+I'm open to collaborations on data extraction, automation, and cloud scraping projects.
+📩 Let’s connect and discuss how I can help streamline your data needs! 🚀
