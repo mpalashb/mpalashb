@@ -112,11 +112,3 @@ Python developer from Bangladesh with **7+ years** of experience specializing in
 My goal: build scrapers & pipelines that run **autonomously**, **scale efficiently**, and stay **stable under anti-bot pressure**.
 
 ---
-
-## 🔗 Links
-
-**🔗 Upwork:** https://www.upwork.com/freelancers/~01f0b8ca754515ab66
-**🔗 LinkedIn:** https://linkedin.com/in/fl-palash  
-**📧 Email:** mpalash.biz@gmail.com
-
----
