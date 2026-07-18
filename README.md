@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <strong>Mohammad Palash Babu</strong></h1>
 
 <p align="center">
-  <strong>Python AI Engineer</strong><br>
-  <em>AI Agents • Web Scraping • API Integration • Intelligent Automation</em>
+  <strong>Python Web Scraping Expert</strong><br>
+  <em>Scrapy • Apify • AI-Assisted Extraction • AI Agents</em>
 </p>
 
 <p align="center">
@@ -15,42 +15,33 @@
 
 # 🚀 About Me
 
-AI becomes truly valuable when it can access real-world data, understand it, and take action.
+I build reliable, production-ready web scrapers and data extraction systems using Python and Scrapy, with strong experience handling anti-bot systems, Cloudflare bypass, CAPTCHA solving, proxy rotation, and reverse engineering.
 
-I design and build production-ready AI systems that combine custom AI agents, intelligent web scraping, backend APIs, and third-party integrations to solve real business problems.
-
-My work focuses on building complete AI solutions—from collecting data and integrating business systems to automating workflows with modern LLMs.
+On top of that, I work with AI-assisted extraction and AI agents (LangChain / LangGraph) for cases where a fixed set of scraping rules isn't practical — giving clients a mix of dependable classic scraping and AI-driven flexibility depending on the project.
 
 ---
 
 # 🏗️ What I Build
 
-## 🤖 AI Agents & Intelligent Applications
-
-- Custom AI Agents
-- Multi-Agent Systems
-- AI Chatbots & Assistants
-- AI Research Agents
-- Lead Qualification Systems
-- AI MVP Development
-- Retrieval-Augmented Generation (RAG)
-- AI Knowledge Bases
-- LangChain & LangGraph Workflows
-- MCP (Model Context Protocol)
-
----
-
 ## 🌐 Web Scraping & Data Intelligence
 
-- Production-ready Web Scrapers
+- Production-ready Web Scrapers (Scrapy)
 - Large-scale Data Extraction
 - Hidden API Reverse Engineering
 - Browser Automation
 - JavaScript-heavy Websites
 - Cloudflare & Anti-Bot Handling
-- AI-ready Data Pipelines
 - Custom Apify Actors
 - Scheduled Monitoring & Crawling
+
+---
+
+## 🤖 AI-Assisted Extraction & Agents
+
+- AI-assisted data extraction for varying page layouts
+- AI agents for research, enrichment & lead qualification (LangChain / LangGraph)
+- Document & PDF data extraction
+- Lead generation & contact enrichment pipelines
 
 ---
 
@@ -59,37 +50,26 @@ My work focuses on building complete AI solutions—from collecting data and int
 - REST API Development
 - Third-party API Integration
 - FastAPI
-- Django
-- Authentication & OAuth
 - Webhooks
-- Background Jobs
 - Database Design
-- Business Logic Development
 
 ---
 
 ## ⚙️ Workflow Automation
 
-- AI Workflow Automation
-- n8n
-- Make.com
+- n8n workflows
 - Business Process Automation
-- CRM Integrations
 - Scheduled Jobs
-- Event-driven Automation
 
 ---
 
 ## ☁️ Cloud & Deployment
 
 - Docker
-- Kubernetes
 - AWS
 - Google Cloud Platform
 - DigitalOcean
-- CI/CD
-- Logging & Monitoring
-- Production Deployment
+- Production Deployment & Monitoring
 
 ---
 
@@ -105,14 +85,11 @@ My work focuses on building complete AI solutions—from collecting data and int
 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=flat)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
-![RAG](https://img.shields.io/badge/RAG-AI_Knowledge_Base-success)
 
 ## Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white)
 
 ## Web Scraping
 
@@ -124,7 +101,6 @@ My work focuses on building complete AI solutions—from collecting data and int
 ## Automation
 
 ![n8n](https://img.shields.io/badge/n8n-AA43FF?style=flat&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6B5AED?style=flat)
 
 ## Database
 
@@ -135,7 +111,6 @@ My work focuses on building complete AI solutions—from collecting data and int
 ## Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
@@ -144,25 +119,23 @@ My work focuses on building complete AI solutions—from collecting data and int
 
 # 💼 Expertise
 
-✔ AI Agent Development
+✔ Web Scraping & Data Extraction (Scrapy)
 
-✔ Multi-Agent Systems
-
-✔ Web Scraping & Data Extraction
+✔ Custom Apify Actor Development
 
 ✔ Hidden API Reverse Engineering
 
-✔ Retrieval-Augmented Generation (RAG)
+✔ AI-Assisted Data Extraction
 
-✔ LangChain & LangGraph
+✔ AI Agent Development (LangChain & LangGraph)
+
+✔ Lead Generation & Enrichment
 
 ✔ Backend API Development
 
 ✔ Third-party API Integration
 
-✔ Workflow Automation
-
-✔ AI MVP Development
+✔ Workflow Automation (n8n)
 
 ✔ Cloud Deployment
 
@@ -170,6 +143,6 @@ My work focuses on building complete AI solutions—from collecting data and int
 
 # 📍 About
 
-I'm a Python AI Engineer from Bangladesh with 8+ years of Python development experience. I build AI applications, intelligent automation, web scraping systems, and backend APIs that solve real business problems.
+I'm a Python developer from Bangladesh with 8+ years of experience, specializing in web scraping and data extraction. I build production-grade Scrapy scrapers and custom Apify Actors, and complement that with AI-assisted extraction and AI agents for cases where fixed scraping rules aren't practical.
 
-My goal is to build complete AI solutions that collect real-world data, integrate with business systems, and automate complex workflows through custom AI agents, web scraping, backend APIs, and intelligent automation.
+My goal is to help businesses collect and structure real-world data reliably — whether that's through classic rule-based scraping or AI-driven extraction and automation, depending on what the project actually needs.
