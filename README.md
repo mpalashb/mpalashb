@@ -1,148 +1,90 @@
-<h1 align="center">👋 Hi, I'm <strong>Mohammad Palash Babu</strong></h1>
+<h1 align="center">Hi, I'm Mohammad Palash 👋</h1>
 
+<h3 align="center">🤖 AI Automation Engineer building intelligent agents & automated systems</h3>
 <p align="center">
-  <strong>Python Web Scraping Expert</strong><br>
-  <em>Scrapy • Apify • AI-Assisted Extraction • AI Agents</em>
+  <em>AI Agents • Workflow Automation • Data Pipelines • Cloud Integration</em>
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01f0b8ca754515ab66"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=flat&logo=upwork&logoColor=white"></a>
-  <a href="https://linkedin.com/in/fl-palash"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <!-- <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"></a> -->
+  <a href="https://www.upwork.com/freelancers/~01f0b8ca754515ab66"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://linkedin.com/in/fl-palash"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/8%2B%20Years-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-brightgreen?style=flat-square"/>
+</p>
 
-# 🚀 About Me
+<br>
 
-I build reliable, production-ready web scrapers and data extraction systems using Python and Scrapy, with strong experience handling anti-bot systems, Cloudflare bypass, CAPTCHA solving, proxy rotation, and reverse engineering.
+## 🚀 About Me
 
-On top of that, I work with AI-assisted extraction and AI agents (LangChain / LangGraph) for cases where a fixed set of scraping rules isn't practical — giving clients a mix of dependable classic scraping and AI-driven flexibility depending on the project.
+I design and build AI-powered automation systems — spanning intelligent agents, workflow automation, data pipelines, and backend integrations — that help businesses operate with less manual effort and more reliable data.
 
----
+I have **8+ years of experience** in Python development.
 
-# 🏗️ What I Build
+**Core areas I work in:**
 
-## 🌐 Web Scraping & Data Intelligence
+- 🤖 **AI Agents & RAG Pipelines** — Claude, OpenAI, LangChain, LangGraph
+- ⚙️ **Workflow & CRM Automation** — n8n, Make, GoHighLevel
+- 🌐 **Data Extraction & Integration** — Scrapy, Playwright, Apify, REST APIs
+- ☁️ **Cloud Deployment** — Docker, AWS, GCP, DigitalOcean
 
-- Production-ready Web Scrapers (Scrapy)
-- Large-scale Data Extraction
-- Hidden API Reverse Engineering
-- Browser Automation
-- JavaScript-heavy Websites
-- Cloudflare & Anti-Bot Handling
-- Custom Apify Actors
-- Scheduled Monitoring & Crawling
+<br>
 
----
+## 🛠️ Tech Stack
 
-## 🤖 AI-Assisted Extraction & Agents
+<h4>🤖 AI & Agents</h4>
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E88E5?style=for-the-badge"/>
+</p>
 
-- AI-assisted data extraction for varying page layouts
-- AI agents for research, enrichment & lead qualification (LangChain / LangGraph)
-- Document & PDF data extraction
-- Lead generation & contact enrichment pipelines
+<h4>⚙️ Automation</h4>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-1A73E8?style=for-the-badge"/>
+</p>
 
----
+<h4>🌐 Data Extraction</h4>
+<p>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apify-FF9012?style=for-the-badge&logo=apify&logoColor=white"/>
+</p>
 
-## 🔗 APIs & Backend Development
+<h4>🔗 Backend & APIs</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-- REST API Development
-- Third-party API Integration
-- FastAPI
-- Webhooks
-- Database Design
+<h4>☁️ Cloud & Deployment</h4>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+</p>
 
----
+<br>
 
-## ⚙️ Workflow Automation
+## 💼 Core Expertise
 
-- n8n workflows
-- Business Process Automation
-- Scheduled Jobs
+| Area | Focus |
+|---|---|
+| 🤖 AI Agents | Agent design, RAG pipelines, automation logic |
+| 🌐 Web Scraping | Large-scale extraction, hidden API reverse engineering |
+| 🔗 Backend | API integration, webhooks, database design |
+| ⚙️ Workflow Automation | n8n pipelines, CRM automation |
+| ☁️ Cloud | Deployment, monitoring, scaling |
 
----
+<br>
 
-## ☁️ Cloud & Deployment
-
-- Docker
-- AWS
-- Google Cloud Platform
-- DigitalOcean
-- Production Deployment & Monitoring
-
----
-
-# 🧰 Tech Stack
-
-## AI
-
-![Claude](https://img.shields.io/badge/Claude-LLM-orange)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-
-## AI Frameworks
-
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=flat)
-
-## Python
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white)
-
-## Web Scraping
-
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoftedge&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-FF6B00?style=flat)
-
-## Automation
-
-![n8n](https://img.shields.io/badge/n8n-AA43FF?style=flat&logo=n8n&logoColor=white)
-
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-## Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-
----
-
-# 💼 Expertise
-
-✔ Web Scraping & Data Extraction (Scrapy)
-
-✔ Custom Apify Actor Development
-
-✔ Hidden API Reverse Engineering
-
-✔ AI-Assisted Data Extraction
-
-✔ AI Agent Development (LangChain & LangGraph)
-
-✔ Lead Generation & Enrichment
-
-✔ Backend API Development
-
-✔ Third-party API Integration
-
-✔ Workflow Automation (n8n)
-
-✔ Cloud Deployment
-
----
-
-# 📍 About
-
-I'm a Python developer from Bangladesh with 8+ years of experience, specializing in web scraping and data extraction. I build production-grade Scrapy scrapers and custom Apify Actors, and complement that with AI-assisted extraction and AI agents for cases where fixed scraping rules aren't practical.
-
-My goal is to help businesses collect and structure real-world data reliably — whether that's through classic rule-based scraping or AI-driven extraction and automation, depending on what the project actually needs.
+<p align="center">🌍 Working with clients worldwide.</p>
