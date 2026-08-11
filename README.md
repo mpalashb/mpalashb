@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohammad Palash 👋</h1>
 
 <h3 align="center">
-🐍 Python Web Scraping Engineer • Data Extraction • AI-Ready Data Systems
+🤖 Python & n8n Automation Specialist • AI Agents • CRM & Workflow Systems
 </h3>
 
 <p align="center">
 <em>
-Large-Scale Web Scraping • Browser Automation • Distributed Crawling • Hidden APIs • ETL
+n8n & Make.com Automation • GoHighLevel CRM • AI Agents (Claude & OpenAI) • Web Scraping • ETL
 </em>
 </p>
 
@@ -26,95 +26,76 @@ Large-Scale Web Scraping • Browser Automation • Distributed Crawling • Hid
 
 # 🚀 Engineering Focus
 
-I build **production-grade Python systems** for **large-scale web scraping**, **browser automation**, **distributed crawling**, **hidden API extraction**, and **AI-ready data infrastructure**.
+I build **automation and AI systems that run inside a business's actual tools** — not sitting next to them as an extra step.
 
-My work focuses on building reliable, maintainable, and scalable data collection systems capable of extracting structured information from JavaScript-heavy websites, authenticated portals, business directories, marketplaces, and public APIs. The collected data powers analytics, ETL workflows, business intelligence, automation, and AI applications.
+My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automation and integration**, and **AI agents / LLM-powered tools** built on the Claude API and OpenAI API. From real estate and e-commerce to SaaS and marketing agencies, the systems I build save time, cut manual costs, and keep working long after the project ends.
 
 ---
 
 # ⚙️ Core Expertise
 
-- 🌐 Large-Scale Web Scraping
-- 🕷️ Distributed Crawling
-- ⚡ Browser Automation
-- 🔍 Hidden API Reverse Engineering
-- 📡 Network Traffic Analysis
-- 🔐 Session & Authentication Automation
-- 🌍 Geo-Targeted Proxy Infrastructure
-- 🛡️ Anti-Bot Resilient Scraping
-- 🚀 High-Concurrency Async Crawling
-- 📦 JSON & Structured Data Extraction
-- 📊 ETL, Validation & Deduplication
-- ☁️ Cloud-Native Scraping Systems
-- 🤖 AI Data Enrichment
-- 🔗 REST API Integration
+- 🔗 n8n Workflow Automation
+- 🔄 Make.com Automation
+- 📇 GoHighLevel (GHL) Automation & CRM Integration
+- 🤖 AI Agent & RAG-Based Chatbot Development
+- 🧠 Claude API & OpenAI API Integration
+- 📞 Lead Generation, SMS & Voice Automation
+- 🕷️ Custom Apify Actor Development
+- 📊 Custom ETL Pipelines & Web Scraping
+- ⏱️ Scheduled Monitoring & Reporting Bots
+- 🌐 Python Backend & API Development
+- 🔌 Webhook & REST API Integrations
 
 ---
 
 # 🛠 Tech Stack
 
-### 🐍 Web Scraping
+### 🤖 AI & Automation
 
 <p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+</p>
 
+---
+
+### 🐍 Web Scraping & Data
+
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SeleniumBase-2E7D32?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/undetected--chromedriver-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/curl__cffi-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTTPX-0096D6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/aiohttp-0096D6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Requests-444444?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Apify-FF9012?style=for-the-badge&logo=apify&logoColor=white"/>
-
 </p>
 
 ---
 
-### 📊 Data Engineering
+### 🔗 Backend & Integration
 
 <p>
-
-<img src="https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-</p>
-
----
-
-### 🔗 Backend
-
-<p>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/REST_API-0A84FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Webhooks-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge"/>
+---
 
+### 📊 Data & Storage
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
 </p>
 
 ---
@@ -122,92 +103,39 @@ My work focuses on building reliable, maintainable, and scalable data collection
 ### ☁️ Cloud & Infrastructure
 
 <p>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-
 </p>
 
 ---
 
-### 🌍 Proxy & Anti-Bot
+# ⚡ What Sets My Work Apart
 
-<p>
-
-<img src="https://img.shields.io/badge/Bright_Data-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Zyte_API-00A651?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Residential_Proxies-795548?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Geo_Targeting-1565C0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAPTCHA_Handling-C62828?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🤖 AI & Automation
-
-<p>
-
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n"/>
-
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
-
-</p>
-
----
-
-
-# ⚡ Production Features
-
-- JavaScript-heavy websites
-- Hidden API discovery
-- GraphQL endpoints
-- Infinite scrolling
-- Dynamic pagination
-- Authenticated portals
-- Session management
-- Geo-targeted proxies
-- Distributed workers
-- Async scraping
-- Incremental crawling
-- Scheduled monitoring
-- Structured exports
-- AI-ready datasets
+- Clean, production-ready automations built with proper error handling and logging
+- Strong focus on reliability and long-term maintenance, not just a working demo
+- Deep experience across n8n, Make.com, GoHighLevel, and Python integrations
+- Fast, clear communication with transparent progress updates
+- Comfortable owning a project end to end — architecture through deployment
 
 ---
 
 # 💼 What I Build
 
-- Enterprise Web Scraping Systems
-- Distributed Crawlers
-- Browser Automation
-- Hidden API Collectors
-- Reverse-Engineered Data Extraction
-- Custom Apify Actors
-- ETL & Data Processing
-- AI-Ready Data Infrastructure
-- Business Intelligence Data Collection
-- Cloud-Native Scraping Services
+- AI Lead Qualification & CRM Automation (n8n + GoHighLevel)
+- AI Agent & RAG-Based Chatbots
+- Workflow Automation Systems (n8n / Make.com)
+- CRM Automation & Integration
+- Custom Apify Actors & Web Scraping Pipelines
+- ETL & Data Processing Systems
+- Scheduled Monitoring, Reporting & Data Bots
+- Python Backend & API Systems
 
 ---
 
 <p align="center">
 
-### Python • Web Scraping • Browser Automation • Distributed Crawling • AI-Ready Data Systems
+### n8n • Make.com • GoHighLevel • AI Agents (Claude & OpenAI) • Python Automation
 
 </p>
