@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohammad Palash 👋</h1>
 
 <h3 align="center">
-🤖 Python & n8n Automation Specialist • AI Agents • CRM & Workflow Systems
+🕷️ Python Web Scraping Expert & n8n Automation Specialist
 </h3>
 
 <p align="center">
 <em>
-n8n & Make.com Automation • GoHighLevel CRM • AI Agents (Claude & OpenAI) • Web Scraping • ETL
+Advanced Web Scraping (Cloudflare Bypass, Apify) • n8n & Make.com • GoHighLevel CRM • AI Agents (Claude & OpenAI) • ETL
 </em>
 </p>
 
@@ -26,22 +26,23 @@ n8n & Make.com Automation • GoHighLevel CRM • AI Agents (Claude & OpenAI) �
 
 # 🚀 Engineering Focus
 
-I build **automation and AI systems that run inside a business's actual tools** — not sitting next to them as an extra step.
+I build **production-grade web scraping systems and automation** that run inside a business's actual tools — not sitting next to them as an extra step.
 
-My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automation and integration**, and **AI agents / LLM-powered tools** built on the Claude API and OpenAI API. From real estate and e-commerce to SaaS and marketing agencies, the systems I build save time, cut manual costs, and keep working long after the project ends.
+My work spans **advanced web scraping with anti-bot bypass and large-scale ETL pipelines**, **n8n and Make.com workflow automation**, **GoHighLevel CRM automation and integration**, and **AI agents / LLM-powered tools** built on the Claude API and OpenAI API.
 
 ---
 
 # ⚙️ Core Expertise
 
+- 🕷️ Advanced Web Scraping (Cloudflare Bypass, Anti-Bot Evasion)
+- 🎯 Custom Apify Actor Development
+- 📊 Large-Scale ETL Pipelines & PostgreSQL
 - 🔗 n8n Workflow Automation
 - 🔄 Make.com Automation
 - 📇 GoHighLevel (GHL) Automation & CRM Integration
 - 🤖 AI Agent & RAG-Based Chatbot Development
 - 🧠 Claude API & OpenAI API Integration
 - 📞 Lead Generation, SMS & Voice Automation
-- 🕷️ Custom Apify Actor Development
-- 📊 Custom ETL Pipelines & Web Scraping
 - ⏱️ Scheduled Monitoring & Reporting Bots
 - 🌐 Python Backend & API Development
 - 🔌 Webhook & REST API Integrations
@@ -49,6 +50,18 @@ My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automa
 ---
 
 # 🛠 Tech Stack
+
+### 🐍 Web Scraping & Data
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apify-FF9012?style=for-the-badge&logo=apify&logoColor=white"/>
+</p>
+
+---
 
 ### 🤖 AI & Automation
 
@@ -60,18 +73,6 @@ My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automa
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
-</p>
-
----
-
-### 🐍 Web Scraping & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apify-FF9012?style=for-the-badge&logo=apify&logoColor=white"/>
 </p>
 
 ---
@@ -113,9 +114,9 @@ My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automa
 
 # ⚡ What Sets My Work Apart
 
-- Clean, production-ready automations built with proper error handling and logging
+- Deep experience bypassing advanced anti-scraping systems where standard scrapers get blocked
+- Clean, production-ready code built with proper error handling and logging
 - Strong focus on reliability and long-term maintenance, not just a working demo
-- Deep experience across n8n, Make.com, GoHighLevel, and Python integrations
 - Fast, clear communication with transparent progress updates
 - Comfortable owning a project end to end — architecture through deployment
 
@@ -123,12 +124,13 @@ My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automa
 
 # 💼 What I Build
 
+- Advanced Web Scraping with Anti-Bot Bypass & Custom Apify Actors
+- Large-Scale ETL Pipelines & Data Processing Systems
+- Scraping MVPs with Live Dashboards
 - AI Lead Qualification & CRM Automation (n8n + GoHighLevel)
 - AI Agent & RAG-Based Chatbots
 - Workflow Automation Systems (n8n / Make.com)
 - CRM Automation & Integration
-- Custom Apify Actors & Web Scraping Pipelines
-- ETL & Data Processing Systems
 - Scheduled Monitoring, Reporting & Data Bots
 - Python Backend & API Systems
 
@@ -136,6 +138,6 @@ My work spans **n8n and Make.com workflow automation**, **GoHighLevel CRM automa
 
 <p align="center">
 
-### n8n • Make.com • GoHighLevel • AI Agents (Claude & OpenAI) • Python Automation
+### Web Scraping • n8n • Make.com • GoHighLevel • AI Agents (Claude & OpenAI)
 
 </p>
