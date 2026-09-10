@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohammad Palash 👋</h1>
 
 <h3 align="center">
-🕷️ Python Web Scraping Expert & n8n Automation Specialist
+🕷️ Python Web Scraping Expert | Full-Stack Data Pipelines & MVP Apps
 </h3>
 
 <p align="center">
 <em>
-Advanced Web Scraping (Cloudflare Bypass, Apify) • n8n & Make.com • GoHighLevel CRM • AI Agents (Claude & OpenAI) • ETL
+Advanced Web Scraping (Cloudflare Bypass, Apify) • n8n & Make • FastAPI & Django MVPs • AI Agents (Claude & OpenAI)
 </em>
 </p>
 
@@ -24,31 +24,6 @@ Advanced Web Scraping (Cloudflare Bypass, Apify) • n8n & Make.com • GoHighLe
 
 ---
 
-# 🚀 Engineering Focus
-
-I build **production-grade web scraping systems and automation** that run inside a business's actual tools — not sitting next to them as an extra step.
-
-My work spans **advanced web scraping with anti-bot bypass and large-scale ETL pipelines**, **n8n and Make.com workflow automation**, **GoHighLevel CRM automation and integration**, and **AI agents / LLM-powered tools** built on the Claude API and OpenAI API.
-
----
-
-# ⚙️ Core Expertise
-
-- 🕷️ Advanced Web Scraping (Cloudflare Bypass, Anti-Bot Evasion)
-- 🎯 Custom Apify Actor Development
-- 📊 Large-Scale ETL Pipelines & PostgreSQL
-- 🔗 n8n Workflow Automation
-- 🔄 Make.com Automation
-- 📇 GoHighLevel (GHL) Automation & CRM Integration
-- 🤖 AI Agent & RAG-Based Chatbot Development
-- 🧠 Claude API & OpenAI API Integration
-- 📞 Lead Generation, SMS & Voice Automation
-- ⏱️ Scheduled Monitoring & Reporting Bots
-- 🌐 Python Backend & API Development
-- 🔌 Webhook & REST API Integrations
-
----
-
 # 🛠 Tech Stack
 
 ### 🐍 Web Scraping & Data
@@ -59,6 +34,7 @@ My work spans **advanced web scraping with anti-bot bypass and large-scale ETL p
 <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apify-FF9012?style=for-the-badge&logo=apify&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTPX-0A84FF?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,19 +46,19 @@ My work spans **advanced web scraping with anti-bot bypass and large-scale ETL p
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔗 Backend & Integration
+### 🔗 Backend, MVP & Integration
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-0A84FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Webhooks-7952B3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
@@ -94,6 +70,8 @@ My work spans **advanced web scraping with anti-bot bypass and large-scale ETL p
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
@@ -105,39 +83,26 @@ My work spans **advanced web scraping with anti-bot bypass and large-scale ETL p
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-# ⚡ What Sets My Work Apart
-
-- Deep experience bypassing advanced anti-scraping systems where standard scrapers get blocked
-- Clean, production-ready code built with proper error handling and logging
-- Strong focus on reliability and long-term maintenance, not just a working demo
-- Fast, clear communication with transparent progress updates
-- Comfortable owning a project end to end — architecture through deployment
 
 ---
 
 # 💼 What I Build
 
-- Advanced Web Scraping with Anti-Bot Bypass & Custom Apify Actors
-- Large-Scale ETL Pipelines & Data Processing Systems
-- Scraping MVPs with Live Dashboards
-- AI Lead Qualification & CRM Automation (n8n + GoHighLevel)
-- AI Agent & RAG-Based Chatbots
-- Workflow Automation Systems (n8n / Make.com)
-- CRM Automation & Integration
-- Scheduled Monitoring, Reporting & Data Bots
-- Python Backend & API Systems
+- Web Scraping with Anti-Bot Bypass & Custom Apify Actors
+- Large-Scale ETL Pipelines
+- MVP Apps & Dashboards on Scraped Data (FastAPI, Django)
+- CRM Automation (n8n, Make, GoHighLevel, HubSpot)
+- AI Agents & Automation (Claude, OpenAI)
 
 ---
 
 <p align="center">
 
-### Web Scraping • n8n • Make.com • GoHighLevel • AI Agents (Claude & OpenAI)
+### Web Scraping • n8n • Make • FastAPI/Django MVPs • AI Agents (Claude & OpenAI)
 
 </p>
